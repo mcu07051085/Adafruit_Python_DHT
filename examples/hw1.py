@@ -45,4 +45,4 @@ try:
             print('Failed to get reading. Try again!')
             sys.exit(1)
 except KeyboardInterrupt:
-    print('關閉程式')
+	print('關閉程式')
